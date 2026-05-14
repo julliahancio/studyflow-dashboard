@@ -22,4 +22,4 @@ This project was created as part of my programming learning journey and portfoli
 
 ## Preview
 
-Coming soon.
+![StudyFlow Preview](assets/dashboard-preview.png)
